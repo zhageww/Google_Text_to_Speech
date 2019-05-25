@@ -3,7 +3,7 @@
 ## description:
 This projection can help you get the synthesis speech from Google. As the method I used is using the Web_api, you do not need to install any Google's Libs. 
 
-## Requirment:
+## Requirement:
 Please make sure the vision of Python is Python2, unfortunately, you cannot use this code in Python3 without any modification!
 
 ## Notice:
